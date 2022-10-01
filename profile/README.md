@@ -5,7 +5,7 @@ Hello
 </h1>
 
 <div id="badges">
-  <a href="https://">
+  <a href="https://ZeroPenSecurity.github.io/">
     <img src="https://img.shields.io/badge/Website-red?style=for-the-badge&logo=GitHub&logoColor=white" alt="Website Badge"/>
   </a>
   <a href="https://discord.gg/T7zyJ9zE2V">
